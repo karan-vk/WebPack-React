@@ -9,7 +9,6 @@
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "browserslist": "> 1%, last 2 versions",
   "devDependencies": {
     "@babel/core": "^7.10.3",
     "@babel/plugin-proposal-class-properties": "^7.10.1",
@@ -19,6 +18,8 @@
     "autoprefixer": "^9.8.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^3.6.0",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
     "postcss-loader": "^3.0.0",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
@@ -30,5 +31,6 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "browserslist": "> 1%,last 2 versions"
 }
