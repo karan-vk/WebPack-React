@@ -1,0 +1,13 @@
+{
+  "name": "React-WebPack-demo",
+  "version": "1.0.0",
+  "description": "Learning and setting up webpack for react",
+  "main": "index.js",
+  "repository": "https://github.com/karan-vk/WebPack-React.git",
+  "author": "Karan V <karanvknarayanan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
