@@ -19,7 +19,7 @@
     "autoprefixer": "^9.8.1",
     "babel-loader": "^8.1.0",
     "css-loader": "^5.0.0",
-    "file-loader": "^6.0.0",
+    "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.0",
     "postcss-loader": "^3.0.0",
     "style-loader": "^1.2.1",
